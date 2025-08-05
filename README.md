@@ -6,7 +6,7 @@ We recommend starting with the section "Project Motivation".
 - [Installations](#Installations)
 - [Project motivation](#Project_motivation)
 - [File descriptions](#File_desciption)
-- [Interacting with the data](#Interacting with the data)
+- [Interacting with the data](#Interacting_with_the_data)
 - [Others](#Others)
   
 ### Installations
