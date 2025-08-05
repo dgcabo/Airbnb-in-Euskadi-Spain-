@@ -4,9 +4,9 @@ We recommend starting with the section "Project Motivation".
 
 ### Index
 - [Installations](#Installations)
-- [Project motivation](#Projectmotivation)
-- [File descriptions](#Filedesciption)
-- [Interacting with the data](#Interactingwiththedata)
+- [Project motivation](#Project-motivation)
+- [File descriptions](#File-desciption)
+- [Interacting with the data](#Interacting-with-the-data)
 - [Others](#Others)
   
 ### Installations
