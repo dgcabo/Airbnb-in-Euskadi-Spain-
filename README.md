@@ -3,37 +3,13 @@ Here you will find all the relevant information regarding our Airbnb study.
 We recommend starting with the section "Project Motivation".
 ### Index
 - [Installations](#Installations)
-- [Project Motivation](#Project_Motivation)
-- File Descriptions
-- Interacting with the data
-- Others (Licensing, Authors, Acknowledgements, etc.)
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
-- d
+- [Project motivation](#Project_motivation)
+- [File descriptions](#File_desciption)
+- [Interacting with the data](#Interacting with the data)
+- [Others](#Others)
 ### Installations
-### Project_Motivation
-### File Descriptions
+### Project motivation
+### File descriptions
 ### Interacting with the data
 ### Others (Licensing, Authors, Acknowledgements, etc.)
 
