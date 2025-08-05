@@ -11,7 +11,7 @@ We recommend starting with the section "Project Motivation".
   
 ### Installations
 
-### Project motivation
+### Project_motivation
 This project has aimed to analyze the current situation of Airbnb's business in this region, with the main objective of identifying the area or town with the highest profitability. This is intended to serve as a guiding model for future real estate investments in the area.
 For this purpose, the following question will be answered:
 1. Question 1
