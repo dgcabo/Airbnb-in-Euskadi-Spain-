@@ -18,6 +18,7 @@ For this purpose, the following question will be answered:
 2. Which areas in Euskadi show the highest demand relative to the number of available accommodations, indicating that demand significantly exceeds supply?
 3. Which features have the greatest impact on demand, and which ones most influence rental price in the Airbnb market in these areas?
 
+#To finalize this study and provide with a more attractive information, we will predict (based on the most relevant features and location) the revenue for a new ....
 The full set of files related to this study belong to airbnb, and have been donwloaded from the official website.
 
 ### File descriptions
