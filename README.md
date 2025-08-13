@@ -14,7 +14,7 @@ We recommend starting with the section "Project Motivation".
 ### Project motivation
 This project has aimed to analyze the current situation of Airbnb's business in this region, with the main objective of identifying the area or town with the highest profitability. This is intended to serve as a guiding model for future real estate investments in the area.
 For this purpose, the following question will be answered:
-1. Which are the areas in Euskadi with the highest occupancy rates throughout the year?
+1. Which are the areas in Euskadi with the top 10% highest occupancy rates throughout the year?
 2. Which areas in Euskadi show the highest demand relative to the number of available accommodations, indicating that demand significantly exceeds supply?
 3. Which features have the greatest impact on demand, and which ones most influence rental price in the Airbnb market in these areas?
 
