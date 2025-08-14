@@ -18,18 +18,21 @@ For this purpose, the following question will be answered:
 2. Which areas in Euskadi show the highest demand relative to the number of available accommodations, indicating that demand significantly exceeds supply?
 3. Which features have the greatest impact on demand, and which ones most influence rental price in the Airbnb market in these areas?
 
-#To finalize this study and provide with a more attractive information, we will predict (based on the most relevant features and location) the revenue for a new ....
+**To conclude this study, we are conducting a small analysis to forecast which locations and types of properties in the Basque Country (Euskadi) have the highest potential to succeed as Airbnb businesses.**
+
 The full set of files related to this study belong to airbnb, and have been donwloaded from the official website.
 
 ### File descriptions
-There are x Files in this repository, each of them has been created for a different purpose:
-File 1
-File 2
-File 3
+There are two different files in this repository:
+
+File 1: A CSV file containing input data from Airbnb, including comprehensive information related to the Airbnb business in Euskadi (Spain).
+File 2: A Jupyter Notebook where the study will be carried out.
 
 ### Interacting with the data
 Feel free to open each of these files for better understanding of the whole process.
+The Jupyter Notebook will guide you through the different sections and comments of this study, allowing you to clearly understand the processes that have been carried out and how the conclusions were reached.
 More Information regarding the process aswell as the answers and results can be found in the following [Blog post](https://medium.com/@dgcabo1/text-cf63bcf4246f)
+
 ### Others
 This study is the final project of my data science course from Udacity.
 
