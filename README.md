@@ -10,17 +10,19 @@ We recommend starting with the section "Project Motivation".
 - [Others](#Others)
   
 ### Installations
+It is crucial to have the following tools and libraries installed:
+- The latest version of Python
+- Jupyter Notebook
+- Libraries such as numpy, pandas, matplotlib.pyplot, seaborn, and ast — although these will be automatically imported when running the Jupyter Notebook file.
 
 ### Project motivation
-This project has aimed to analyze the current situation of Airbnb's business in this region, with the main objective of identifying the area or town with the highest profitability. This is intended to serve as a guiding model for future real estate investments in the area.
+This project has aimed to analyze the current situation of Airbnb's business in this region of Spain, with the main objective of identifying the area or town with the highest profitability. This is intended to serve as a guiding model for future real estate investments in the area.
 For this purpose, the following question will be answered:
 1. Which are the areas in Euskadi have the highest occupancy rates throughout the year?
 2. Which areas in Euskadi show the highest demand relative to the number of available accommodations, indicating that demand significantly exceeds supply?
 3. Which features have the greatest impact on demand, and which ones most influence rental price in the Airbnb market in these areas?
 
-**To conclude this study, we are conducting a small analysis to forecast which locations and types of properties in the Basque Country (Euskadi) have the highest potential to succeed as Airbnb businesses.**
-
-The full set of files related to this study belong to airbnb, and have been donwloaded from the official website.
+The file related to this study belong to airbnb, and have been donwloaded from the official website.
 
 ### File descriptions
 There are two different files in this repository:
@@ -35,4 +37,3 @@ More Information regarding the process aswell as the answers and results can be 
 
 ### Others
 This study is the final project of my data science course from Udacity.
-
