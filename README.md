@@ -41,7 +41,7 @@ This study is the final project of my data science course from Udacity.
 
 ### Conclusions
 **Question 1:** here are 35 locations with an estimated occupation of 255 day per year in Euskadi:
-Aramaio, Areatza, Barakaldo, Beasain, Berastegi, Bermeo, Berreaga-Mendi, Bilbao, Donostia / San Sebastián, Elgoibar, Gasteiz, Getxo, Guernica, Irun, Oiartzun, Orio, Pasaia, Sestao, Sopelana, Urnieta, Usurbil, Vitoria-Gasteiz, Zizurkil, Zumaia.
+Aramaio, Areatza, Barakaldo, Beasain, Berastegi, Bermeo, Berreaga-Mendi, Bilbao, Donostia / San Sebastián, Elgoibar, Gasteiz, Getxo, Guernica, Irun, Oiartzun, Orio, Pasaia, Sestao, Sopelana, Urnieta, Usurbil, Vitoria-Gasteiz, Zizurkil, Zumaia.  
 **Question 2:** The answer to this question is Donostia (Sans Sebastian), Spain.  
 **Question 3:**  
 - Apart from other top features (sh. Jupyter), we can observe that guests pay special attention to: Reviews related to cleanliness, Check-in options, Communication with the host.
