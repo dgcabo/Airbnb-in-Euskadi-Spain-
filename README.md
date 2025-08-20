@@ -40,9 +40,11 @@ More Information regarding the process aswell as the answers and results can be 
 This study is the final project of my data science course from Udacity.
 
 ### Conclusions
-**Question 1:** here are 35 locations with an estimated occupation of 255 day per year in Euskadi:
+**Question 1:**  
+Here are 35 locations with an estimated occupation of 255 day per year in Euskadi:
 Aramaio, Areatza, Barakaldo, Beasain, Berastegi, Bermeo, Berreaga-Mendi, Bilbao, Donostia / San Sebastián, Elgoibar, Gasteiz, Getxo, Guernica, Irun, Oiartzun, Orio, Pasaia, Sestao, Sopelana, Urnieta, Usurbil, Vitoria-Gasteiz, Zizurkil, Zumaia.  
-**Question 2:** The answer to this question is Donostia (Sans Sebastian), Spain.  
+**Question 2:**  
+The answer to this question is Donostia (Sans Sebastian), Spain.  
 **Question 3:**  
 - Apart from other top features (sh. Jupyter), we can observe that guests pay special attention to: Reviews related to cleanliness, Check-in options, Communication with the host.
 - Based on the analysis of how individual values of bathrooms, beds, accommodates, and the types of property and room influence the estimated occupancy, we conclude that the optimal combination of features to achieve the highest estimated occupancy includes:
