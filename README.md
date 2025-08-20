@@ -46,7 +46,7 @@ Aramaio, Areatza, Barakaldo, Beasain, Berastegi, Bermeo, Berreaga-Mendi, Bilbao,
 **Question 2:**  
 The answer to this question is Donostia (Sans Sebastian), Spain.  
 **Question 3:**  
-- Apart from other top features (sh. Jupyter), we can observe that guests pay special attention to: Reviews related to cleanliness, Check-in options, Communication with the host.
-- Based on the analysis of how individual values of bathrooms, beds, accommodates, and the types of property and room influence the estimated occupancy, we conclude that the optimal combination of features to achieve the highest estimated occupancy includes:
+a)Apart from other top features (sh. Jupyter), we can observe that guests pay special attention to: Reviews related to cleanliness, Check-in options, Communication with the host.  
+b)Based on the analysis of how individual values of bathrooms, beds, accommodates, and the types of property and room influence the estimated occupancy, we conclude that the optimal combination of features to achieve the highest estimated occupancy includes:
 **Entire rental unit for 2 people, with 2 beds and 1 bathroom.**
 
